@@ -21,16 +21,7 @@ https://dummyjson.com/docs/products
 
 Video penjelasan kode dan demo aplikasi dapat dilihat melalui link YouTube berikut:
 
-**[PASTE LINK YOUTUBE KAMU DI SINI]**
+link
 
-## Teknologi yang Digunakan
 
-- Flutter
-- Dart
-- HTTP Package
-- DummyJSON API
 
-## Cara Menjalankan Aplikasi
-
-1. Clone repository ini.
-2. B
