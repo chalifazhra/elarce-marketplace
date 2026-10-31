@@ -21,7 +21,4 @@ https://dummyjson.com/docs/products
 
 Video penjelasan kode dan demo aplikasi dapat dilihat melalui link YouTube berikut:
 
-link
-
-
-
+https://youtu.be/ateEEyr73lM?si=gepPhnbtjKDronz4
