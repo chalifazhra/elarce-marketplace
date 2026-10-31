@@ -1,17 +1,24 @@
-# flutter_draf_1
+# MoonCéra
 
-A new Flutter project.
+Aplikasi Flutter untuk menampilkan data produk menggunakan API dari DummyJSON.
 
-## Getting Started
+## Fitur
 
-This project is a starting point for a Flutter application.
+- Menampilkan seluruh produk
+- Menampilkan produk berdasarkan kategori
+- Fitur search produk
+- Halaman detail produk
+- Menggunakan API DummyJSON
+- Menggunakan desain dengan skema warna pastel
 
-A few resources to get you started if this is your first Flutter project:
+## API
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Aplikasi ini menggunakan API dari DummyJSON Products:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://dummyjson.com/docs/products
+
+## Demo Video
+
+Video penjelasan kode dan demo aplikasi dapat dilihat melalui link YouTube berikut:
+
+https://youtu.be/ateEEyr73lM?si=gepPhnbtjKDronz4
